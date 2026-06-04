@@ -12,8 +12,8 @@ router.get("/hero", (req, res) => {
   res.json({
     heading:
       "Order food & groceries. Discover best restaurants. Swiggy it!",
-    leftImage: "/hero/left.png",
-    rightImage: "/hero/right.png",
+    leftImage: "/hero/left1.png",
+    rightImage: "/hero/right1.png",
   });
 });
 
